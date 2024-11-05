@@ -1,0 +1,136 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open Sans", serif;
+  background-color: #F5F4F0;
+  align-content: center;
+  color: #333333;
+}
+
+div {
+  margin: auto;
+}
+
+#container {
+  width: 1280pX;
+  padding: 88px 80px 137px 80px;
+  box-sizing: border-box;
+}
+
+#title-page header{
+  height: 22px;
+  margin-bottom: 8px;
+  font-size: 16px;
+  text-align: top;
+  color: #E1624F;
+  text-align: top;
+  font-weight: bold;
+}
+
+#title-page h1 {
+  height: 49; 
+  color: #1B1B1B;
+}
+
+#description-and-img {
+  margin-bottom: 40px;
+}
+
+#description-and-img img{
+  height: 660px;
+  margin-top: 40px;
+  padding-top: 4px;
+  border-radius: 28px;
+  width: 1120px;
+  margin-bottom: 24px;
+}
+
+#description-and-img p{
+  font-size: 16px;
+  text-align: center;
+  text-align: top;
+  width: 1120px;
+  height: 37px;
+  margin-bottom: 4px;
+  color: #333333;
+  font-style: italic;
+
+}
+
+#linha {
+  width: 1120px;
+  border-bottom: 1px solid #D9D9D9;
+
+}
+
+#content-list {
+  padding-top: 64px;
+
+}
+
+#content-list header{
+  text-align: top;
+  color: #E1624F;
+  text-align: top;
+  height: 22px;
+  margin-bottom: 2px;
+  font-weight: bold;
+
+}
+#content-list h2 {
+  margin-bottom: 8px;
+
+}
+#content-list p {
+  text-align: top;
+  padding-bottom: 64px;
+
+}
+
+#temples img {
+  border-radius: 28px;
+  width: 1120px;
+  height: 350px;
+  margin-bottom: 20px;
+
+}
+
+#temples p {
+  margin-top: 4px;
+  margin-bottom: 48px;
+
+}
+
+#temples ol {
+  margin-bottom: 40px;
+
+}
+
+#linha2 {
+  width: 1120px;
+  border-bottom: 1px solid #D9D9D9;
+  margin-bottom: 40px;
+
+}
+
+#msn-final {
+  text-align: center;
+  text-align: top;
+
+}
+
+footer {
+  display: block;
+  text-align: center;
+  padding-bottom: 48px;
+  font-size: 16px;
+
+}
+
+footer img {
+  vertical-align: middle;
+}
